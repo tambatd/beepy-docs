@@ -36,6 +36,10 @@ First you need to follow the instructions to [flash an SD card with the OS](/doc
 
 Follow the [Getting Started](/docs/getting-started#software-setup) guide and run the install script before the screen can display anything.
 
+### Help, the screen is displaying an image instead of the command-line after following the software setup guide
+
+You may have installed the desktop version of the Raspberry Pi OS. Check to make sure the OS being installed has no desktop environment.
+
 ### I set my WiFi SSID and password in the Pi imager but it can't seem to connect
 
 The Pi Zero W only supports 2.4GHz WiFi networks. Make sure you're not trying to connect to a 5GHz network.
