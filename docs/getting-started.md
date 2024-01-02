@@ -35,7 +35,7 @@ There are two choices of operating systems to run on your Beepy
 ### Setting up a Raspbian System
 
 1. Use the [Raspberry Pi Imager tool](https://www.raspberrypi.com/software/) to flash an SD card with the Raspberry Pi OS ***Lite*** image
-    - Choose OS - Raspberry Pi OS (other) - ***Raspberry Pi OS Lite (32-bit) image***
+    - Choose OS - Raspberry Pi OS (other) - ***Raspberry Pi OS Lite (32-bit) image with no desktop environment***
     - Click the gear icon ⚙ (or press ```CTRL + SHIFT + X```) to set the username, password, hostname, WiFi, and enable SSH
     - Make sure your computer and the Pi are on the same WiFi network in order to SSH in later
 
